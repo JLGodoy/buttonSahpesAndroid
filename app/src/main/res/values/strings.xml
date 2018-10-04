@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">buttonShapes</string>
+    <string name="button">Ok</string>
+    <string name="buttonExit">Exit</string>
+    <string name="button3">Clear</string>
+    <string name="button4">Save</string>
+</resources>
